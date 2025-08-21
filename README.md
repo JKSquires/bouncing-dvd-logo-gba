@@ -7,5 +7,5 @@ If you want to run these programs on an emulator, I'd recommend [No$gba](https:/
 
 Assemble with the [Goldroad 1.7](https://www.gbadev.org/tools.php?showinfo=192) assembler:
 ```sh
-goldroad.exe music_with_timers.asm
+goldroad.exe bouncing_dvd.asm
 ```
