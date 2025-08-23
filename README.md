@@ -1,4 +1,6 @@
 # bouncing-dvd-logo-gba
+![gif of program](bouncing_dvd.gif)
+
 A recreation of the bouncing DVD logo for the GBA written in ARM Assembly.
 
 **Note: unless a proper header is added, these programs will not work on real hardware (nor some emulators).**
